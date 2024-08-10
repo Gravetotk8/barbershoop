@@ -1,0 +1,13 @@
+.image-sobre{
+    object-position: center;
+    object-fit: cover;
+    height: 30%;
+    width: 100%;
+}
+
+.carousel-item{
+    object-position: center;
+    object-fit: cover;
+    height: 300px !important;
+    width: 100%;
+}
